@@ -12,9 +12,9 @@ Pending ...
 <div>
 
 ### Languages:
-| HTML | CSS | JS | Typescript | C# |
-|----------|----------|-------|-------|--------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5"  alt="html5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3"  alt="css3" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" alt="c#" width="55" height="55"/>| 
+| HTML | CSS | SASS (SCSS) | JS | Typescript | C# |
+|----------|----------|-------|-------|--------|--------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5"  alt="html5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3"  alt="css3" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="express" alt="express" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" alt="c#" width="55" height="55"/>| 
 
 
 ### Frameworks:
@@ -26,9 +26,9 @@ Pending ...
 
 ### Libraries:
 
-| RxJS | NgRx | Redux | SASS (SCSS) |
-|----------|----------|----------|------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/rxjs/rxjs-original.svg" title="rxjs"  alt="rxjs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/ngrx/ngrx-original.svg" title="ngrx"  alt="ngrx" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="sass" alt="sass" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="express" alt="express" width="55" height="55"/>|
+| RxJS | NgRx | Redux |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/rxjs/rxjs-original.svg" title="rxjs"  alt="rxjs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/ngrx/ngrx-original.svg" title="ngrx"  alt="ngrx" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="sass" alt="sass" width="55" height="55"/>|
 
 
 ### Data Manipulation & Visualisation:

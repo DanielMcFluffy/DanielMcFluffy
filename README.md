@@ -19,16 +19,16 @@ Pending ...
 
 ### Frameworks:
 
-| Angular | .NET Core | React | Express |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="angular"  alt="angular" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore"  alt="dotnetcore" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="55" height="55"/>|
+| Angular | .NET Core | React | Express | Tailwind CSS
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="angular"  alt="angular" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore"  alt="dotnetcore" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="55" height="55"/>|
 
 
 ### Libraries:
 
-| RxJS | NgRx | Redux |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/rxjs/rxjs-original.svg" title="rxjs"  alt="rxjs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/ngrx/ngrx-original.svg" title="ngrx"  alt="ngrx" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="sass" alt="sass" width="55" height="55"/>|
+| RxJS | NgRx | Redux | Bootstrap | Angular Material
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/rxjs/rxjs-original.svg" title="rxjs"  alt="rxjs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/ngrx/ngrx-original.svg" title="ngrx"  alt="ngrx" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg" title="angularmaterial" alt="angularmaterial" width="55" height="55"/>|
 
 
 ### Data Manipulation & Visualisation:

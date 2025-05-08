@@ -5,9 +5,7 @@ Problem-solver at heart.
 ## About me
 
 - Currently working at a startup called [FeedMe](https://feedme.ai) -- Empowering the F&B industry with AI.
-- Passionate about **DevOps**, **Site Reliability Engineering**, **System Design**.
-- Side stuff I'm working on: [PawHaven](https://github.com/DanielMcFluffy/PawHaven)
-
+- Passionate about **DevOps**, **Site Reliability Engineering**, **System Design**, **Backend Engineering**.
 
 ## My Developer Toolkit
 
@@ -27,8 +25,9 @@ Problem-solver at heart.
   [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 
   [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) 
-
   
+  [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+
   ### Frameworks/Preprocessors/Libraries
   
   [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
